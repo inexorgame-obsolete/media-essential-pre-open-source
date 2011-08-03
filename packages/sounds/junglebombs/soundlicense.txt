@@ -1,0 +1,5 @@
+"saz_tamarin01.wav" alias "sound01.ogg" was downloaded on "http://www.freesound.org/samplesViewSingle.php?id=100044"! The uploader is "soundbytez"!
+"Forest Birds.wav" alias "sound02.ogg" was downloaded on "http://www.freesound.org/samplesViewSingle.php?id=123999"! The uploader is "NightVoice"!
+"footstep on wood foley.wav" alias "sound03.ogg" was downloaded on "http://www.freesound.org/samplesViewSingle.php?id=19292"! The uploader is "martian"!
+---
+All sounds are licensed under a Creative Commons Sampling Plus 1.0 License.
