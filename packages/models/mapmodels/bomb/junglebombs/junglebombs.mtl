@@ -1,0 +1,5 @@
+# mtl file of Cube 2 level
+
+newmtl slot32
+map_Kd packages\dg\muv185.jpg
+
