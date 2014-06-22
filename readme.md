@@ -1,5 +1,5 @@
-# Sauerbomber Data Files
+# Sauerbraten Fork Data Files
 
-This repository contains all the data files for the Sauerbomber projects. It can be automatically checked out via Sauerbomber's build system.
+This repository contains all the data files for the Sauerbraten Fork projects. It can be automatically checked out via Sauerbraten Fork's build system.
 
-See https://github.com/mobius-tempname/sauerbomber-code
+See https://github.com/sauerbraten-fork/sauerbraten-fork
