@@ -1,0 +1,9 @@
+The following folders or files do conflict with our licensing policy:
+
+data/guioverlay.png
+data/guiskin.png
+data/guislider.png
+
+sounds/ctf
+models/ (entirely?)
+
