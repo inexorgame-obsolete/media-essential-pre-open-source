@@ -1,0 +1,16 @@
+Star by Death14 (djthegreat1430@gmail.com)
+
+How to view map;
+Mac:
+1. Extract files to Users/Your Name/Library/Application Support/sauerbraten/packages/base
+
+2. Open Sauerbraten and type "/map star” (without quotation marks) Or open the .ogz file which will open Sauerbraten for you and load up the map.
+
+Windows:
+1. Extract files to C:/Program Files/Sauerbraten/packages/base
+
+2. Open Sauerbraten and type "/map star” (without quotation marks)
+
+
+
+
