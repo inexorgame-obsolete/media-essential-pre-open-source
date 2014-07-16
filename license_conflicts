@@ -1,0 +1,26 @@
+The following folders or files do conflict with our licensing policy:
+
+( see data/readme.txt )
+data/guioverlay.png
+data/guiskin.png
+data/guislider.png
+
+sounds/ctf (taken from AssaultCube earlier, no clear license)
+models/ (all basic content's except player are under CC-BY-NC)
+
+ik2k/
+ikbase/
+payne/
+than_ind/ -> necessary to contact the author
+jf1/
+subverse/ -> necessary to contact the author
+lunaran/
+gibbie/ -> necessary to contact the author
+gor/ -> necessary to contact the author
+aftas/
+mitaman/ -> necessary to contact the author
+g_pack (also by mitaman)
+textures/nieb/
+painkillah
+textures/terrain_soc/
+
