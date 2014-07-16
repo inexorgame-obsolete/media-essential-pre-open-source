@@ -3,7 +3,7 @@
 
 This repository contains all data files for the [Sauerbraten Fork](https://github.com/sauerbraten-fork/sauerbraten-fork) project.
 It is intended as a minimal package (at a size of ~100MB ) covering only a few maps and core depencies.
-A big problem is Sauerbraten is that not all content is entirely free, that is why we are having a strict [licensing guideline](https://github.com/sauerbraten-fork/sauerbraten-fork/issues/14).
+A big problem in sauerbraten is copyright, which makes the game non-free. This is why we are having a strict [licensing guideline](https://github.com/sauerbraten-fork/sauerbraten-fork/issues/14).
 Currently the repository is straight work in progress.
 
 ## Goals
@@ -20,10 +20,8 @@ Looking for a task because you don't know what to do? Head over the stuff that n
 ## Stuff that needs to be remade 
 The following folders or files do conflict with our licensing policy:
 
-( see data/readme.txt )
-data/guioverlay.png
-data/guiskin.png
-data/guislider.png
-
-sounds/ctf (taken from AssaultCube earlier, no clear license)
-models/ (all basic content's except player are under CC-BY-NC)
+* data/guioverlay.png
+* data/guiskin.png
+* data/guislider.png
+* sounds/ctf (taken from AssaultCube earlier, no clear license)
+* models/ (all basic content's except player are under CC-BY-NC)
