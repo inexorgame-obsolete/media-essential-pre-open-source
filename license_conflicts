@@ -7,6 +7,7 @@ data/guislider.png
 
 sounds/ctf (taken from AssaultCube earlier, no clear license)
 models/ (all basic content's except player are under CC-BY-NC)
+particle/bullet is gpl 
 
 ik2k/
 ikbase/
@@ -20,7 +21,7 @@ gor/ -> necessary to contact the author
 aftas/
 mitaman/ -> necessary to contact the author
 g_pack (also by mitaman)
-textures/nieb/
+textures/nieb/ //i think we can relicense them after contact, for other projects he used cc0
 painkillah
 textures/terrain_soc/
 
