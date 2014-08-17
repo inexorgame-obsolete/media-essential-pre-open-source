@@ -1,0 +1,48 @@
+{
+    "title": "cartel",
+    "author": "Fatality",
+    "date": {
+        "release": "April - June 2014"
+    },
+    "license": "",
+    "content": {
+        "maps": [
+            "cartel.ogz"
+        ],
+        "depencies": {
+            "texture": [
+                "medieval_soc/floor_stepside1c.jpg",
+                "medieval_soc/floor_steptop1c.jpg",
+                "medieval_soc/floor_stone1.jpg",
+                "medieval_soc/marble_black.jpg",
+                "medieval_soc/metal_trim1.jpg",
+                "medieval_soc/rooftile1.jpg",
+                "medieval_soc/stone1.jpg",
+                "medieval_soc/stone2.jpg",
+                "medieval_soc/stone_trim1.jpg",
+                "medieval_soc/wood_browndark.jpg",
+                "medieval_soc/wood_grey.jpg",
+                "medieval_soc/wood_trim1c.jpg",
+                "medieval_soc/woodplank_1a.jpg",
+                "medieval_soc/woodplank_1b.jpg",
+                "medieval_soc/woodplank_2.jpg",
+                "mm-wood-worn.jpg",
+                "mm-wood-worn_normal.jpg",
+                "mm-wood-worn_spec.jpg",
+                "tomek/snow10_d.jpg",
+                "tomek/snow10_local.jpg",
+                "tomek/snow10_s.jpg",
+                "tomek/snow10_h.jpg",
+                "ik2k/ik_wpaperplain128c.jpg",
+                "ik2k/ik_wpaperplain128d.jpg"
+            ],
+            "skybox": [
+                "sky.png",
+                "default.png"
+            ]
+		},
+		"attribute": {
+			"url": "http://quadropolis.us/node/4074"
+		}
+    }
+}
