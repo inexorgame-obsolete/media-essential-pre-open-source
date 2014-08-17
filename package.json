@@ -1,0 +1,35 @@
+{
+    "title": "Package Title",
+    "author": "Package Author package@auth.or",
+    "date": {
+        "release": "package release date",
+        "alpha": "package alpha date"
+    },
+    "license": "package license",
+    "content": {
+        "maps": [
+            "package map"
+        ],
+        "texture": {
+            "package texture folder": {
+                "texture.png": "Some more detail about the texture",
+                "moretexture.png": ""
+            }
+        },
+        "model": {
+            "package model folder": {
+                "model.png": "Some more detail about the model",
+                "moremodel.png": ""
+            }
+        },
+        "depencies": {
+            "texture": [
+                "texture1.png",
+                "texture2.png"
+            ],
+            "skybox": [
+                "skybox1.png"
+            ]
+        }
+    }
+}
