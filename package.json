@@ -30,6 +30,10 @@
             "skybox": [
                 "skybox1.png"
             ]
-        }
+		},
+		"attribute": {
+			"url": "http://some.pack.age",
+			"credit": "this is a nice testing package made by a bear"
+		}
     }
 }
