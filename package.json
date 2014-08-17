@@ -10,20 +10,20 @@
         "maps": [
             "package map"
         ],
-        "texture": {
+        "textures": {
             "package texture folder": {
                 "texture.png": "Some more detail about the texture",
                 "moretexture.png": ""
             }
         },
-        "model": {
+        "models": {
             "package model folder": {
                 "model.png": "Some more detail about the model",
                 "moremodel.png": ""
             }
         },
-        "depencies": {
-            "texture": [
+        "dependencies": {
+            "textures": [
                 "texture1.png",
                 "texture2.png"
             ],

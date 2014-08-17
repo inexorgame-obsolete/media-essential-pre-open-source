@@ -9,8 +9,8 @@
         "maps": [
             "cartel.ogz"
         ],
-        "depencies": {
-            "texture": [
+        "dependencies": {
+            "textures": [
                 "medieval_soc/floor_stepside1c.jpg",
                 "medieval_soc/floor_steptop1c.jpg",
                 "medieval_soc/floor_stone1.jpg",
