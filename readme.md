@@ -25,3 +25,12 @@ The following folders or files do conflict with our licensing policy:
 * data/guislider.png
 * ~~sounds/ctf (taken from AssaultCube earlier, no clear license)~~
 * ~~models/ (all basic content's except player are under CC-BY-NC)~~
+
+## Licensing
+All content in this package may be provided entirely free, also including commercial purpose.
+If you wish to contribute please keep this in mind when picking your license for a release.
+Listed below are some example licenses which are insane for usage:
+* [zlib](http://opensource.org/licenses/Zlib)
+* [GPL](http://www.gnu.org/copyleft/gpl.html)
+* [MIT](http://opensource.org/licenses/MIT)
+* [CC BY-SA](https://creativecommons.org/licenses/by-sa/3.0/)
