@@ -28,9 +28,11 @@ The following folders or files do conflict with our licensing policy:
 
 ## Licensing
 All content in this package may be provided entirely free, also including commercial purpose.
-If you wish to contribute please keep this in mind when picking your license for a release.
-Listed below are some example licenses which are insane for usage:
+If you wish to contribute please keep this in mind when picking your license for a release. We recommend to use one of the Creative Commons below.
+Listed below are some example licenses which we are going to accept:
+* [CC-0 1.0 or any later version](https://creativecommons.org/publicdomain/zero/1.0/)
+* [CC BY 3.0 or any later version](https://creativecommons.org/licenses/by-sa/3.0/)
+* [CC BY-SA 3.0 or any later version](https://creativecommons.org/licenses/by-sa/3.0/)
 * [zlib](http://opensource.org/licenses/Zlib)
 * [GPL](http://www.gnu.org/copyleft/gpl.html)
 * [MIT](http://opensource.org/licenses/MIT)
-* [CC BY-SA](https://creativecommons.org/licenses/by-sa/3.0/)
