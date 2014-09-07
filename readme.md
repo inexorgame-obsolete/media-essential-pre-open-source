@@ -14,7 +14,7 @@ You can find a list of licenses applying this terms below:
 | License       | 
 | ------------- | 
 | [CC-0 1.0 or any later version](https://creativecommons.org/publicdomain/zero/1.0/)  | 
-| [CC BY 3.0 or any later version](https://creativecommons.org/licenses/by-sa/3.0/)    |
+| [CC BY 3.0 or any later version](https://creativecommons.org/licenses/by/3.0/)       |
 | [CC BY-SA 3.0 or any later version](https://creativecommons.org/licenses/by-sa/3.0/) |
 | [zlib](http://opensource.org/licenses/Zlib)                                          |
 | [GPL](http://www.gnu.org/copyleft/gpl.html)                                          |
