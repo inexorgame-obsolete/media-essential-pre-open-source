@@ -5,20 +5,8 @@ It is intended as the core package, featuring up our main depencies in a few ~10
 
 ## Licensing
 A big problem we had to deal with when forking off Sauerbraten has been licensing.
-Due to imprecise licensing we were in need to throw all existing work aboard and take off.
-This is why we decided to introduce a strict guideline as following
-> All files in SauerFork may apply a license which grants full usage of the content (including commercial distribution)
+This is why we decided to introduce a strict guideline as you can find in [our wiki](https://github.com/sauerbraten-fork/sauerbraten-fork-data/wiki/Licenses).
 
-You can find a list of licenses applying this terms below:
-
-| License       | 
-| ------------- | 
-| [CC-0 1.0 or any later version](https://creativecommons.org/publicdomain/zero/1.0/)  | 
-| [CC BY 3.0 or any later version](https://creativecommons.org/licenses/by/3.0/)       |
-| [CC BY-SA 3.0 or any later version](https://creativecommons.org/licenses/by-sa/3.0/) |
-| [zlib](http://opensource.org/licenses/Zlib)                                          |
-| [GPL](http://www.gnu.org/copyleft/gpl.html)                                          |
-| [MIT](http://opensource.org/licenses/MIT)                                            |
 
 ## How does the repo work?
 The repo is splitted into packages, which may contain:
