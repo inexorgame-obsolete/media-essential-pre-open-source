@@ -1,0 +1,3 @@
+All textures in folder were downloaded from: http://www.simonoc.com/pages/materials/tpegypt/index.htm
+These textures were licensed on site with  GNU GPL 2 License. 
+Normal and height maps were added by "nothing"
