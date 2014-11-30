@@ -1,11 +1,11 @@
-# Sauerbraten Fork Data Files
+# Inexor Data Files
 
-This repository contains all data for [Sauerbraten Fork](https://github.com/sauerbraten-fork/sauerbraten-fork).
+This repository contains all data for [Inexor](https://github.com/sauerbraten-fork/sauerbraten-fork).
 It is intended as the core package, featuring up our main depencies in a few ~100MB.
 
 ## Licensing
 A big problem we had to deal with when forking off Sauerbraten has been licensing.
-This is why we decided to introduce a strict guideline as you can find in [our wiki](https://github.com/sauerbraten-fork/sauerbraten-fork-data/wiki/Licenses).
+This is why we decided to introduce a strict policy as you can find in [our wiki](https://github.com/sauerbraten-fork/sauerbraten-fork-data/wiki/License-Policy).
 
 
 ## How does the repo work?
@@ -18,7 +18,10 @@ A package will be documented using our package.json system - a example can be fo
 ```json
 {
     "title": "Package Title",
-    "author": "Package Author package@auth.or",
+    "author": {
+		"name": "Package Author"
+		"email": "package@auth.or" 
+	},
     "date": {
         "release": "package release date",
         "alpha": "package alpha date"
