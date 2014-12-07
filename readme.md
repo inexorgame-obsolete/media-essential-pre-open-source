@@ -21,7 +21,7 @@ A package will be documented using our package.json system - a example can be fo
 {
     "title": "Package Title",
     "author": {
-		"name": "Package Author"
+		"name": "Package Author",
 		"email": "package@auth.or" 
 	},
     "date": {
