@@ -1,17 +1,19 @@
 # Inexor Data Files
 
-This repository contains all data for [Inexor](https://github.com/sauerbraten-fork/sauerbraten-fork).
+This repository contains all data for [Inexor](https://github.com/sauerbraten-fork/inexor).
 It is intended as the core package, featuring up our main depencies in a few ~100MB.
 
 ## Licensing
 A big problem we had to deal with when forking off Sauerbraten has been licensing.
-This is why we decided to introduce a strict policy as you can find in [our wiki](https://github.com/sauerbraten-fork/sauerbraten-fork-data/wiki/License-Policy).
+This is why we decided to introduce a strict policy as you can find in [our wiki](https://github.com/sauerbraten-fork/inexor-data/wiki/License-Policy).
 
 
 ## How does the repo work?
 The repo is splitted into packages, which may contain:
 * maps
 * textures
+* sounds
+* models
 * and any additional content needed
 
 A package will be documented using our package.json system - a example can be found below.
@@ -62,7 +64,6 @@ A package will be documented using our package.json system - a example can be fo
 ```
 Don't let this frighten you, there is a nice little GUI that takes care of writing the .json for you.
 
-~~Furthermore there is a folder for core scripts ( UI ) which will most certainly be replaced.~~ 
 
 ## How can I get involved / contribute
 We're hiring anyone who want's to contribute!
