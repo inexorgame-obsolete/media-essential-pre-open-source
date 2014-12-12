@@ -19,3 +19,7 @@ Update 24.05.2013:
 TO-DO:
 	-much better lights
 	-more details
+
+	
+Map dxdm1 was downloaded from: http://quadropolis.us/node/3841
+Licensed as CC (BY)
