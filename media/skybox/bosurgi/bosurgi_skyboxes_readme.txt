@@ -16,7 +16,7 @@ crater1 - Meteor Crater - This is loosely based off of Meteor Crater in Arizona,
 
 moon1 - Moonscape - This is just a random moon, similar to earths.
 
-Skyboxes downloaded from: http://quadropolis.us/files/bosurgi_skyboxes.zip 
+Skyboxes downloaded from: http://quadropolis.us/files/bosurgi_skyboxes.zip | http://quadropolis.us/node/2815
 They were licensed as CC (BY SA) on the site //comment done by "nothing"
 
 
