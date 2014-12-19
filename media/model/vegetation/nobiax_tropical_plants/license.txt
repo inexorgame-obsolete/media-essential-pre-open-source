@@ -5,7 +5,7 @@ _______________________
 
 Provided by Nobiax
 
-This work is under Creative Commons 3.0 Licence.
+This work is under Creative Commons Attribution-ShareAlike 3.0 Unported Licence.
 
 Absolutely free to use or to modify in personal or commercial work.
 
@@ -26,7 +26,7 @@ With the understanding that:
           o your fair dealing or fair use rights;
           o the author's moral rights; and
           o rights other persons may have either in the work itself or in how the work is used, such as publicity or 		    privacy rights.
-    * Notice—For any reuse or distribution, you must make clear to others the license terms of this work. The best way to do that is with a link to http://creativecommons.org/licenses/by-sa/3.0/
+    * Notice—For any reuse or distribution, you must make clear to others the license terms of this work. The best way to do that is with a link to https://creativecommons.org/licenses/by-sa/3.0/
 
 
 Give me a link, if you can, of the result at nobiax.deviantart.com
