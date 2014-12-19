@@ -74,7 +74,7 @@ See:
 
 
 
-http://creativecommons.org/licenses/by-nc-sa/2.5/deed.en_GB
+https://creativecommons.org/licenses/by-nc-sa/2.5/deed.en_GB
 
 
 
@@ -82,7 +82,7 @@ for the original "human readable" document.
 
 
 
-http://creativecommons.org/licenses/by-nc-sa/2.5/legalcode
+https://creativecommons.org/licenses/by-nc-sa/2.5/legalcode
 
 
 

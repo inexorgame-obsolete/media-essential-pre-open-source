@@ -19,4 +19,4 @@ The files included in this archive (mentioned above) are covered by the followin
 
 Full information about this licence can be found at on the Creative Commons website at the following URL;
 
-http://creativecommons.org/licenses/by/2.0/uk
+https://creativecommons.org/licenses/by/2.0/uk

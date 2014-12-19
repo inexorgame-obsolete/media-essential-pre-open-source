@@ -1,0 +1,6 @@
+*.tmp
+*.bak
+packages/
+
+# Mac crap
+.DS_Store
