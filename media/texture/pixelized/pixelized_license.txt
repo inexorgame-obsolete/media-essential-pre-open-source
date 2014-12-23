@@ -1,2 +1,0 @@
-textures in this folder are part of downloaded map cubetown from: http://quadropolis.us/node/3404
-Set as public domain
