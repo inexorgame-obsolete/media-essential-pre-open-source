@@ -16,11 +16,14 @@ Much thanks goes to:
 
  The few people who helped with Rudi in the beginning (you know who you are).
 
+ Philip 'philipk' Klevestav and Simon 'Sock' O'Callaghan for creating these awesome textures.
+
  Everyone who commented on quadropolis.us and sauerworld.org
 
  Lee “eihrul” Salzman and Wouter “Aardappel” van Oortmerssen for the Cube2 Engine.
 
  The Inexor team for including my maps :).
+
 
 Enjoy playing!
 
