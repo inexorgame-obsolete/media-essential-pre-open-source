@@ -1,11 +1,12 @@
 # Inexor Data Files
 
-This repository contains all data for [Inexor](https://github.com/sauerbraten-fork/inexor).
-It is intended as the core package, featuring up our main depencies in a few ~100MB.
+This repository contains all data for [Inexor](https://github.com/inexor-game/inexor).
+It is intended as the core package, featuring up our main dependencies plus a few maps in ~300MB.
+Anything else can get delivered via custom packages ingame.
 
 ## Licensing
-A big problem we had to deal with when forking off Sauerbraten has been licensing.
-This is why we decided to introduce a strict policy as you can find in [our wiki](https://github.com/sauerbraten-fork/inexor-data/wiki/License-Policy).
+A big problem we had to deal with when forking off Cube 2: Sauerbraten has been licensing.
+This is why we decided to introduce a strict policy as you can find in [our wiki](https://github.com/inexor-game/data/wiki/License-Policy).
 
 
 ## How does the repo work?
@@ -62,9 +63,8 @@ A package will be documented using our package.json system - a example can be fo
 }
 
 ```
-Don't let this frighten you, there is a nice little GUI that takes care of writing the .json for you.
+Don't let this frighten you, there will be a nice little GUI that takes care of writing the .json for you.
 
 
-## How can I get involved / contribute
-We're hiring anyone who want's to contribute!
-Just get in contact with us, send a patch or open a issue and we'll take care of it..
+## How can I get involved / contribute?
+Have a look in our [wiki](https://github.com/inexor-game/data/wiki/How-to-contribute-content).
