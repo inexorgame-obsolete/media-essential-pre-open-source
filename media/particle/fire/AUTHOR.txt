@@ -1,0 +1,6 @@
+Source: cgtextures.com
+Name: Flames0043 (Texture: #64528)
+Category: Fire \ Flames \
+Keywords: texture fire flame flames burning
+Author: César Vonc 
+Editor: Johannes "Hanni" Schneider
