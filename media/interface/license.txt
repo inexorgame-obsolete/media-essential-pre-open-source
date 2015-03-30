@@ -1,0 +1,13 @@
+background_decal.png
+background_detail.png
+background.png
+guicursor.png (based on the Very Basic Cursor by VisualPharm: http://www.visualpharm.com/; Very Basic Cursor was released as linkware)
+guioverlay.png
+guiskin.png
+guislider.png
+license.txt
+loading_bar.png
+loading_frame.png
+mapshot_frame.png
+
+(c) 2013 Alexander "pix" Willing
