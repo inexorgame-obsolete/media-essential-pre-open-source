@@ -1,0 +1,7 @@
+Beacon
+By Jacob Windecker 5/15/09
+-Small Deathmatch / Insta map
+-Includes working and tested bot support
+
+PS.: by nothing:
+Windecker released this map under common creative BY
