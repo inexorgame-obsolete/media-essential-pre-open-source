@@ -9,7 +9,7 @@ yeah.
 Just enjoy and shut up :P
 -Q009
 
-License is CC-BY-SA 3.0
+License is CC BY-SA 3.0
 Which means:
 
 You are free:
