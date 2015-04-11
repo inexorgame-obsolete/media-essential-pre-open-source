@@ -1,4 +1,4 @@
-
+﻿
 Readme for Dust6 by Fan|Rudi and Fan|Sheik
 
 
@@ -12,7 +12,7 @@ Dust6 was created by Rudi in May of 2014, and was handed over to me (Sheik) to f
 
 Much thanks goes to:
 
- Rudi for creating the original layout and design, and for trusting me to take it over for him.
+ Rudi for creating the original layout and design, and for trusting me to take it over.
 
  The few people who helped with Rudi in the beginning (you know who you are).
 
@@ -20,7 +20,7 @@ Much thanks goes to:
 
  Everyone who commented on quadropolis.us and sauerworld.org
 
- Lee “eihrul” Salzman and Wouter “Aardappel” van Oortmerssen for the Cube2 Engine.
+ Lee 'eihrul' Salzman and Wouter 'Aardappel' van Oortmerssen for the Cube2 Engine.
 
  The Inexor team for including my maps :).
 
