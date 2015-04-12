@@ -1,23 +1,22 @@
 action.jpg
+arrow_bw.jpg
+arrow_fw.jpg
+base.jpg
 checkbox_off.jpg
 checkbox_on.jpg
 exit.jpg
 info.jpg
+ironsnoutx10k.jpg
+ironsnoutx10k_blue.jpg
+ironsnoutx10k_red.jpg
 menu.jpg
-ogro.jpg
+mrfixit2.jpg
+mrfixit2_blue.jpg
+mrfixit2_red.jpg
 radio_off.jpg
 radio_on.jpg
+server.jpg
+spectator.jpg
 
-(c) 2006-2007 Markus "makkE" Bekel
-ALL RIGHTS RESERVED
 
-------------------------------------
-
-serverfull.jpg  
-server.jpg  
-serverlock.jpg  
-serverpriv.jpg  
-serverunk.jpg
-
-CC-BY-SA, Joshua "verbalshadow" Blocher
-
+by Scnd101 licensed under GNU LGPL v3
