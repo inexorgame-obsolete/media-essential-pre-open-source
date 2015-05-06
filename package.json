@@ -1,6 +1,9 @@
 {
     "title": "Package Title",
-    "author": "Package Author package@auth.or",
+    "author": {
+		"name": "Package Author",
+		"email": "package@auth.or" 
+	},
     "date": {
         "release": "package release date",
         "alpha": "package alpha date"
