@@ -1,6 +1,6 @@
 # Inexor Data Files
 
-This repository contains all data for [Inexor](https://github.com/inexor-game/inexor).
+This repository contains all data for [Inexor](https://github.com/inexor-game).
 It is intended as the core package, featuring up our main dependencies plus a few maps in ~300MB.
 Anything else can get delivered via custom packages ingame.
 
