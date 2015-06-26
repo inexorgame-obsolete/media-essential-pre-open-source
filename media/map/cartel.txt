@@ -1,5 +1,5 @@
 
-Readme for Cartel by Fan|Sheik
+Readme for Cartel by cm|sheik
 
 
 
@@ -36,4 +36,4 @@ Much thanks goes to:
 
 Enjoy playing!
 
--Sheik
+-sheik

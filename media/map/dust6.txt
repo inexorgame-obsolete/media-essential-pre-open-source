@@ -1,5 +1,5 @@
 ﻿
-Readme for Dust6 by Fan|Rudi and Fan|Sheik
+Readme for Dust6 by cm|Rudi and cm|sheik
 
 
 
@@ -27,4 +27,4 @@ Much thanks goes to:
 
 Enjoy playing!
 
--Sheik
+-sheik
