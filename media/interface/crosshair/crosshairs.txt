@@ -1,0 +1,21 @@
+
+Readme for crosshairs by cm|sheik
+
+
+
+The following crosshairs are all licensed under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/) :
+
+cross.png
+cross2.png
+cross2-hit.png
+cross-hit.png
+dot.png
+dot-cirlce.png
+dot-circle-hit.png
+dot-hit.png
+x.png
+x-hit.png
+
+
+
+For questions, concerns, or to simply give feedback, please email sheik@inexor.org
