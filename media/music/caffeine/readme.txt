@@ -40,13 +40,6 @@ Release: Digital-math – Infinite-cosmos-master-2
 License: https://creativecommons.org/licenses/by/3.0/
 A Creative Commons Attribution License (CC BY 3.0) states that the material can be shared, remixed and used commercially as long as you give appropriate credit.
 
-Track 7
-
-OMFG - Hello: youtu.be/rXLqxMgyf-A
-Release: Alexomfg – Omfg-hello
-License: https://creativecommons.org/licenses/by/3.0/
-A Creative Commons Attribution License (CC BY 3.0) states that the material can be shared, remixed and used commercially as long as you give appropriate credit.
-
 Track 8
 
 From The Dust - Stardust: youtu.be/mRBat426QHo
