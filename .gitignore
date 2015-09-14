@@ -4,3 +4,6 @@ packages/
 
 # Mac crap
 .DS_Store
+
+# File formats we don't want to have
+*.bmp
