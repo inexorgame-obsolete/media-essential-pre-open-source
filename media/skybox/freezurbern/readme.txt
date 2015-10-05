@@ -1,28 +1,14 @@
+Content released under the Creative Commons Attribution-ShareAlike 4.0 International License.
+https://creativecommons.org/licenses/by-sa/4.0/
+The license above applies to all content in this directory. 
+This readme includes the attribution required by said license, hence you are encouraged to copy it along with the content.
+(although attribution could be provided by other reasonable means)
+
+
 Sky/Cloud boxes created by Zachery "freezurbern" Slocum
+(mail@freezurbern.com)
+http://www.freezurbern.com
 
-Author: Zachery "freezurbern" Slocum
-Email: freezurbern@gmail.com
-URL: http://www.freezurbern.com
-License: Creative Commons Attribution-ShareAlike 3.0 Unported License - https://creativecommons.org/licenses/by-sa/3.0/
-
-=============================================================================================
-
-If you do use them, feel free to send me an email. I'd enjoy playing whatever game you put them in.
-
-Originally created for the first person shooter engine "Cube 2: Sauerbraten"
-
-This readme includes the attribution required by the license, hence you are encouraged copy it along with the content (although attribution could be provided by other reasonable means).
-
-
-This license applies to the following:
-arid2_*
-barren_*
-cocoa_*
-desertdawn_*
-divine_*
-gloom_*
-harmony_*
-raspberry_*
-sandstorm_*
-tropic_*
-wrath_*
+Originally created for the first person shooters "Cube 2: Sauerbraten" and "Red Eclipse"
+http://sauerbraten.org/
+http://redeclipse.net/
