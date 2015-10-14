@@ -30,3 +30,7 @@ grass.png:
 	License: CC0 1.0 - https://creativecommons.org/publicdomain/zero/1.0/
 
 	"Hand" drawn grass blades, from the side.
+________________________________________________________________________________________
+
+basic512.png:
+	License: CC0 1.0 - https://creativecommons.org/publicdomain/zero/1.0/

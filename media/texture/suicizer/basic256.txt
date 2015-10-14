@@ -1,2 +1,0 @@
-texture basic256.png is part of the download from: http://quadropolis.us/node/3726
-Licensed as CC (BY SA)
