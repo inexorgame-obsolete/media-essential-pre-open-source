@@ -7,3 +7,7 @@ packages/
 
 # File formats we don't want to have
 *.bmp
+
+config/servers.cfg
+config/restore.cfg
+config/saved.cfg
