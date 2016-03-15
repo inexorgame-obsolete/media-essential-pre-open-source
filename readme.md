@@ -6,7 +6,7 @@ Anything else can get delivered via custom packages ingame.
 
 ## Licensing
 A big problem we had to deal with when forking off Cube 2: Sauerbraten has been licensing.
-This is why we decided to introduce a strict policy as you can find in [our wiki](https://github.com/inexor-game/data/wiki/License-Policy).
+This is why we decided to introduce a strict policy as you can find in [our wiki](https://github.com/inexor-game/code/wiki/License-Policy).
 
 ## How can I get involved / contribute?
 Have a look in our [wiki](https://github.com/inexor-game/code/wiki/How-to-Contribute-Content).
