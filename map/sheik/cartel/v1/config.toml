@@ -8,22 +8,28 @@
 # April - December 2014
 # For questions, concerns, or simply just to give feedback, please email me at sheik@inexor.org
 
+[light]
+precision = 32
 
-lightprecision 32
-skytexturelight 0
+[light.ambientocclusion]
+intensity = 50
+radius = 15
 
-[skybox]
+[sky.texture]
+light = 0
+
+[sky.skybox]
 # this way we can address a skybox without knowing the file location
 author = "freezurbern"
 name = "cocoa"
 version = "v1"
 
-[skylight]
+[sky.light]
 r = 45
 g = 45
 b = 45
 
-[sunlight]
+[sky.sunlight]
 r = 100
 g = 113
 b = 127
@@ -32,9 +38,9 @@ yaw = 300
 
 [cloud.layer]
 # this way we can address a cloud layer without knowing the file location
-author = inexor
-name = clouds02
-version = v1
+author = "inexor"
+name = "clouds02"
+version = "v1"
 
 [cloud.colour]
 r = 60
@@ -42,8 +48,8 @@ g = 60
 b = 60
 
 [cloud.scroll]
-x = .005
-y = .002
+x = 0.005
+y = 0.002
 
 [fog]
 distance = 1600
@@ -54,14 +60,10 @@ r = 128
 g = 100
 b = 100
 
-[water.colour]
+[material.water.colour]
 r = 20
 g = 20
 b = 20
-
-[ambientocclusion]
-intensity = 50
-radius = 15
 
 # The textures
 
@@ -110,6 +112,12 @@ author = "sheik"
 name = "white_fill"
 version = "v1"
 
-### TODO
-# mapsound "soundtransit/distant_storm.ogg" 220 -1
+# The map sounds
+
+[[sounds]]
+author = "soundtransit"
+name = "distant_storm"
+version = "v1"
+volume = 220
+maxInstances = -1
 

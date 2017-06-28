@@ -1,3 +1,12 @@
+
+[light.ambient]
+r = 32
+g = 31
+b = 19
+
+[light.ambientocclusion]
+intensity = 10
+
 [sky]
 
 yaw = 145
@@ -23,11 +32,6 @@ pitch = 65
 enabled = 0
 light = 0
 
-[ambient]
-r = 32
-g = 31
-b = 19
-
 [fog]
 distance = 1100
 domemax = 1
@@ -40,8 +44,7 @@ b = 90
 [caustics]
 scale = 100
 
-[ambientocclusion]
-intensity = 10
+### The textures
 
 [[texture]]
 
@@ -87,8 +90,19 @@ name = 'marble_2'
 # texture 0 /philipk/asianwad/pk_chcomwood3b.jpg
 # texture 0 /sheik/pink_fill.png
 
-### TODO: Sounds
-# mapsound soundtransit/waterfall 25 -1
-# mapsound soundtransit/waterfall 45 -1
+### The map sounds
 
+[[sounds]]
+author = "soundtransit"
+name = "waterfall"
+version = "v1"
+volume = 25
+maxInstances = -1
+
+[[sounds]]
+author = "soundtransit"
+name = "waterfall"
+version = "v1"
+volume = 45
+maxInstances = -1
 

@@ -1,15 +1,18 @@
 
 
-lightprecision = 32
+[light]
+precision = 32
 
-[skybox]
+[light.ambient]
+r = 20
+g = 20
+b = 20
 
-author = "bosurgi"
-name = "moon1"
-version = "v1"
+[light.ambientocclusion]
+intensity = 110
+radius = 5
 
 [sky]
-
 spin = 1
 skytexture = 0
 skytexturelight = 0
@@ -24,9 +27,14 @@ r = 0
 g = 0
 b = 0
 
+[sky.skybox]
+author = "bosurgi"
+name = "moon1"
+version = "v1"
+
 [cloud]
-alpha 0.7
-scale 0.8
+alpha = 0.7
+scale = 0.8
 
 [cloud.layer]
 author = "inexor"
@@ -51,23 +59,16 @@ r = 100
 g = 110
 b = 125
 
-# [lava.colour]
+# TODO
+# [material.lava.colour]
 # lavacolour 0x96C8FF
 
-[lava.fog]
+[material.lava.fog]
 distance = 20
 
-# [water.colour]
+# TODO
+# [material.water.colour]
 # watercolour 0x646464
-
-[ambient]
-r = 20
-g = 20
-b = 20
-
-[ambientocclusion]
-intensity = 110
-radius = 5
 
 
 #mapmodelreset
