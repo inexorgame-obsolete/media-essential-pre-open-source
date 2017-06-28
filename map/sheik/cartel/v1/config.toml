@@ -1,0 +1,115 @@
+
+# Thanks to:
+# Redon, Pyccna, swatllama, Death14, and Briggzy for help and feedback ingame, and all those who gave feedback on quadropolis.us and sauerworld.org
+# Originally Inspired by Footknight's "Adstradia"
+
+# Cartel (FDM3) by cm|sheik
+# A medeival drug base
+# April - December 2014
+# For questions, concerns, or simply just to give feedback, please email me at sheik@inexor.org
+
+
+lightprecision 32
+skytexturelight 0
+
+[skybox]
+# this way we can address a skybox without knowing the file location
+author = "freezurbern"
+name = "cocoa"
+version = "v1"
+
+[skylight]
+r = 45
+g = 45
+b = 45
+
+[sunlight]
+r = 100
+g = 113
+b = 127
+pitch = 75
+yaw = 300
+
+[cloud.layer]
+# this way we can address a cloud layer without knowing the file location
+author = inexor
+name = clouds02
+version = v1
+
+[cloud.colour]
+r = 60
+g = 60
+b = 60
+
+[cloud.scroll]
+x = .005
+y = .002
+
+[fog]
+distance = 1600
+omemax = 1
+
+[fog.colour]
+r = 128
+g = 100
+b = 100
+
+[water.colour]
+r = 20
+g = 20
+b = 20
+
+[ambientocclusion]
+intensity = 50
+radius = 15
+
+# The textures
+
+[[textures]]
+author = "inexor"
+name = "sky"
+version = "v1"
+
+[[textures]]
+author = "inexor"
+name = "default"
+version = "v1"
+
+### TODO
+#texture 0 /medieval_soc/floor_stepside1c.jpg 0 0 0 .5
+#texture 0 /medieval_soc/floor_steptop1c.jpg 0 0 0 .5
+#texture 0 /medieval_soc/floor_stone1.jpg 0 0 0 .5
+#texture 0 /medieval_soc/marble_black.jpg 0 0 0 .5
+#texture 0 /medieval_soc/metal_trim1.jpg 0 0 0 .5
+#texture 0 /medieval_soc/rooftile1.jpg
+#texture 0 /medieval_soc/stone1.jpg 0 0 0 .25
+#texture 0 /medieval_soc/stone2.jpg 0 0 0 .5
+#texture 0 /medieval_soc/stone_trim1.jpg 0 0 0 .5
+#texture 0 /medieval_soc/wood_browndark.jpg 0 0 0 .5
+#texture 0 /medieval_soc/wood_grey.jpg 0 0 0 .5
+#texture 0 /medieval_soc/wood_trim1c.jpg 0 0 0 .5
+#texture 0 /medieval_soc/woodplank_1a.jpg 0 0 0 .5
+#texture 0 /medieval_soc/woodplank_1b.jpg 0 0 0 .5
+#texture 0 /medieval_soc/woodplank_2.jpg 0 0 0 .5
+
+[[textures]]
+
+author = "sheik"
+name = "pink_fill"
+version = "v1"
+
+[[textures]]
+
+author = "sheik"
+name = "blue_fill"
+version = "v1"
+
+[[textures]]
+
+author = "sheik"
+name = "white_fill"
+version = "v1"
+
+### TODO
+# mapsound "soundtransit/distant_storm.ogg" 220 -1
+
