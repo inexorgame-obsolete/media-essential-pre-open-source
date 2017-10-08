@@ -1,12 +1,12 @@
 # Inexor Data Files
 
-This repository contains all data for [Inexor](https://github.com/inexor-game).
+This repository contains all data for [Inexor](https://github.com/inexorgame).
 It is intended as the core package, featuring up our main dependencies plus a few maps in ~300MB.
 Anything else can get delivered via custom packages ingame.
 
 ## Licensing
 A big problem we had to deal with when forking off Cube 2: Sauerbraten has been licensing.
-This is why we decided to introduce a strict policy as you can find in [our wiki](https://github.com/inexor-game/code/wiki/License-Policy).
+This is why we decided to introduce a strict policy as you can find in [our wiki](https://github.com/inexorgame/inexor-core/wiki/License-Policy).
 
 ## How can I get involved / contribute?
-Have a look in our [wiki](https://github.com/inexor-game/code/wiki/How-to-Contribute-Content).
+Have a look in our [wiki](https://github.com/inexorgame/inexor-core/wiki/How-to-Contribute-Content).
