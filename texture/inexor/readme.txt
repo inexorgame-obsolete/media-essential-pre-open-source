@@ -1,4 +1,4 @@
-notexture.png, sky.png:
+notexture.png, sky.png, default.png:
 
 	To the extent possible under law, "Nieb" has waived all copyright and related or
 	neighboring rights to these works. These works are published from: United States.
