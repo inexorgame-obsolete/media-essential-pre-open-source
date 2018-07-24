@@ -1,6 +1,6 @@
 Armor Model
 
-Copyright (C) 2000  Seth Galbraith
+Copyright (C) 2000 Seth Galbraith
 Copyright (C) 2006 Markus "makkE" Bekel
 
 This program is free software; you can redistribute it and/or modify
@@ -34,4 +34,8 @@ Corrected the order of the frames
 
 8-22-06
 
-Detail added and reskinned 
+Detail added and reskinned
+
+24-07-18 (Done by Inexor)
+
+Converted from md3 to obj
