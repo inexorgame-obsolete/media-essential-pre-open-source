@@ -1,0 +1,108 @@
+
+[light.ambient]
+r = 32
+g = 31
+b = 19
+
+[light.ambientocclusion]
+intensity = 10
+
+[sky]
+
+yaw = 145
+
+[sky.skybox.colour]
+r = 200
+g = 225
+b = 200
+
+[sky.light]
+r = 135
+g = 125
+b = 90
+
+[sky.sunlight]
+r = 215
+g = 205
+b = 170
+yaw = 240
+pitch = 65
+
+[sky.texture]
+enabled = 0
+light = 0
+
+[fog]
+distance = 1100
+domemax = 1
+
+[fog.colour]
+r = 130
+g = 140
+b = 90
+
+[caustics]
+scale = 100
+
+### The textures
+
+[[texture]]
+
+slot = 0
+author = 'inexor'
+version = 'v1'
+name = 'sky'
+scale = 1
+rotate = -90
+shader = 'world'
+
+[[texture]]
+
+slot = 1
+author = 'inexor'
+version = 'v1'
+name = 'default'
+
+[[texture]]
+
+slot = 2
+author = 'sheik'
+version = 'v1'
+name = 'marble_1'
+
+[[texture]]
+
+slot = 3
+author = 'sheik'
+version = 'v1'
+name = 'marble_2'
+
+
+### TODO
+# texture 0 /philipk/blazurban_2/pkf_mud2.jpg
+# texture 0 /philipk/asianwad/pk_chogroset1a.jpg
+# texture 0 /philipk/asianwad/pk_chouttil1b.jpg
+# texture 0 /philipk/herrgard/her_asphalt_1.jpg
+# texture 0 /philipk/herrgard/her_floor_1.jpg
+# texture 0 /philipk/random/pkwall1a.jpg
+# texture 0 /philipk/asianwad/pk_chmarb1a.jpg
+# texture 0 /philipk/herrgard/her_trim_1.jpg
+# texture 0 /philipk/asianwad/pk_chcomwood3b.jpg
+# texture 0 /sheik/pink_fill.png
+
+### The map sounds
+
+[[sounds]]
+author = "soundtransit"
+name = "waterfall"
+version = "v1"
+volume = 25
+maxInstances = -1
+
+[[sounds]]
+author = "soundtransit"
+name = "waterfall"
+version = "v1"
+volume = 45
+maxInstances = -1
+
