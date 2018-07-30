@@ -7,6 +7,8 @@ packages/
 
 # File formats we don't want to have
 *.bmp
+*.md3
+*.md4
 
 config/servers.cfg
 config/restore.cfg
